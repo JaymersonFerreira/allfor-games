@@ -1,7 +1,7 @@
 # Allfor Games
 
 # Descrição do Projeto:
-O AllFor Games é um chatbox que surgiu com necessidade de responder algumas dúvidas que todo gamers ocasionalmente tem: Qual o melhor jogo? Qual é o mais bem avaliado? E, qual foi o mais vendido?
+O AllFor Games é um chatbox que surgiu com necessidade de responder algumas dúvidas que todo gamer ocasionalmente tem: Qual o melhor jogo? Qual é o mais bem avaliado? E, qual foi o mais vendido?
 A partir dessas dúvidas desenvolvemos esse chatbox.
 
 # Pessoas Desenvolvedoras do Projeto:
